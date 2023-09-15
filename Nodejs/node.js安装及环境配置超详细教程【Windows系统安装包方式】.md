@@ -117,13 +117,13 @@ https://nodejs.org/zh-cn/download
 
 ## **Step4：环境配置**
 
-1. 打开安装的目录（默认安装情况下在C:\Program Files\nodejs）
+1. 打开安装的目录（默认安装情况下在D:\ProgramFiles\developer_tools\Nodejs18）
 
 2. 在安装目录下新建两个文件夹【node_global】和【node_cache】
 
-   ![img](node.js%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E8%B6%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%E3%80%90Windows%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8C%85%E6%96%B9%E5%BC%8F%E3%80%91.assets/v2-d53c14df661d2e24c9c1428368933d47_720w.webp)
+   ![image-20230915092826462](node.js%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E8%B6%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%E3%80%90Windows%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8C%85%E6%96%B9%E5%BC%8F%E3%80%91.assets/image-20230915092826462.png)
 
-3. 再次打开cmd命令窗口，输入npm config set prefix “你的路径\node_global”（`“你的路径”默认安装的状况下为 C:\Program Files\nodejs`）
+3. 再次打开cmd命令窗口，输入npm config set prefix “你的路径\node_global”（`“你的路径”默认安装的状况下为 D:\ProgramFiles\developer_tools\Nodejs18`）
 
    ```sh
    npm config set prefix "E:\KF\nodejs\node_global"
@@ -145,13 +145,15 @@ https://nodejs.org/zh-cn/download
 
    变量名：`NODE_PATH`
 
-   变量值：`C:\Program Files\nodejs\node_global\node_modules`
+   变量值：`D:\ProgramFiles\developer_tools\Nodejs18\node_global\node_modules`
 
    （ 用来告诉系统， 下载的模块或者包都在这里了）
 
+   ![image-20230915092949740](node.js%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E8%B6%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%E3%80%90Windows%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8C%85%E6%96%B9%E5%BC%8F%E3%80%91.assets/image-20230915092949740.png)
+
    ![img](node.js%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E8%B6%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%E3%80%90Windows%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8C%85%E6%96%B9%E5%BC%8F%E3%80%91.assets/v2-9f482a1d371cdab2c14bef40bc3c984b_720w.webp)
 
-6. 编辑`用户变量（环境变量）`的 path，将默认的 C 盘下 `APPData\Roaming\npm` 修改成 `C:\Program Files\nodejs\node_global`，点击确定
+6. 编辑`用户变量（环境变量）`的 path，将默认的 C 盘下 `APPData\Roaming\npm` 修改成 `D:\ProgramFiles\developer_tools\Nodejs18\node_global`，点击确定
 
    ![img](node.js%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E8%B6%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%E3%80%90Windows%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8C%85%E6%96%B9%E5%BC%8F%E3%80%91.assets/v2-694655cfc6dcd5fe360fb45a92ee438e_720w.webp)
 
