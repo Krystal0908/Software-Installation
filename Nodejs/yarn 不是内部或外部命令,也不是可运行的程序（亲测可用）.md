@@ -20,7 +20,9 @@ D:\ProgramFiles\developer_tools\Nodejs18\node_global\node_modules\yarn\bin
 
 ![image-20230915173017305](yarn%20%E4%B8%8D%E6%98%AF%E5%86%85%E9%83%A8%E6%88%96%E5%A4%96%E9%83%A8%E5%91%BD%E4%BB%A4,%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E7%A8%8B%E5%BA%8F%EF%BC%88%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%EF%BC%89.assets/image-20230915173017305.png)
 
+## 双击yarn.cmd和yarnpkg.cmd
 
+![image-20230916005433375](D:/Study/Git-Space/Git-Download/Software-Installation/Nodejs/yarn%20%E4%B8%8D%E6%98%AF%E5%86%85%E9%83%A8%E6%88%96%E5%A4%96%E9%83%A8%E5%91%BD%E4%BB%A4,%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E7%A8%8B%E5%BA%8F%EF%BC%88%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%EF%BC%89.assets/image-20230916005433375.png)
 
 > 最后！最后！最后！
 >
